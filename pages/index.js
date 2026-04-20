@@ -4,7 +4,7 @@ import { useState } from 'react';
 const D = {
   brand: 'TOTOPEDIA',
   domain: 'totopedialinkalternatif.com',
-  logo: 'https://i.imgur.com/TEbqczG.png',
+  logo: 'https://ik.imagekit.io/md2fquuug/toped_pp.png?updatedAt=1776672488132',
   linkLogin: 'https://loginwap.gelapsekali.com/toped',
   linkDaftar: 'https://daftarwap.gelapsekali.com/toped',
   amphtml: 'totopedialinkalternatif.com',
